@@ -37,16 +37,10 @@ This is a classic **Snake Game** implemented using Python's `tkinter` library. T
 2. Run the Python file:
    ```bash
    python snake_game.py
-Play using your arrow keys and enjoy!
-🧾 File Overview
-
-snake_game.py – Contains all the logic for the game (snake movement, food, score, collision, etc.)
-No external libraries required (just tkinter and random)
-🖼️ Game Preview
 
 ---
 
-##  To-Do / Ideas
+##  📌To-Do / Ideas
 
 - Add difficulty levels (speed variation)
 - Add sound effects
