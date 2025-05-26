@@ -44,9 +44,11 @@ snake_game.py – Contains all the logic for the game (snake movement, food, sco
 No external libraries required (just tkinter and random)
 🖼️ Game Preview
 
-📌 To-Do / Ideas
+---
 
-Add difficulty levels (speed variation)
-Add sound effects
-High score tracking
-Pause and resume functionality
+##  To-Do / Ideas
+
+- Add difficulty levels (speed variation)
+- Add sound effects
+- High score tracking
+- Pause and resume functionality
