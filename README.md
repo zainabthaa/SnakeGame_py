@@ -52,3 +52,11 @@ No external libraries required (just tkinter and random)
 - Add sound effects
 - High score tracking
 - Pause and resume functionality
+
+---
+
+## 🧑‍💻 Author
+
+- Zainab Ali Taha
+- Effat University
+- GCS182 Project – Python GUI + MySQL Integration
